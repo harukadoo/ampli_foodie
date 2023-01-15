@@ -931,6 +931,10 @@ footer .footer_content .menu a {
   }
 }
 @media (max-width: 416px) {
+  .container{
+    max-width: 415px;
+  }
+    
   .header {
     max-width: 416px;
   }
